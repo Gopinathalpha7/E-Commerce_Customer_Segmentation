@@ -77,4 +77,4 @@ The silhouette score is commonly used to evaluate the quality of clustering algo
     4) Analysis of the result based on clusters and prediction of the final result
 
 
-Linkedin: [link]([linkedin.com/in/gopinath-56a02b169](https://www.linkedin.com/in/gopinath-56a02b169/)https://www.linkedin.com/in/gopinath-56a02b169/)
+Linkedin: [Link](https://www.linkedin.com/in/gopinath-56a02b169/)
